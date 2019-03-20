@@ -1,0 +1,16 @@
+
+.cabecalho,#adicionar-paciente{
+	margin-bottom: 20px;
+}
+
+#titulo-form{
+	margin-bottom: 10px;
+}
+
+#adicionar-paciente{
+	margin-top: 10px;
+}
+
+#tabela-pacientes tr{
+	cursor:pointer;
+}
