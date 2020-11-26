@@ -1,22 +1,20 @@
 
-# Calculadora de IMC
 
-Desenvolvida em Javascript e Bootstrap.
+## Calculadora de IMC com Javascript
 
-Calcula IMC de  acordo com dados informados no formulário
+Desenvolvida com Javascript e Bootstrap.
 
-Calcula IMC através de arquivo txt em formato Json
+Calcula IMC de acordo com dados informados no formulário e através de upload de arquivo em formato json.
 
-Não permite a inserção de clientes caso algum campo do formulário estiver vazio
-
-Front end desenvolvido com o framework Bootstrap
-
+Antes de fazer a inserção dos dados de novo usuário na tabela, valida se todos os campos do formulário foram corretamente preenchidos.
 A linha da tabela aparece na cor verde, amarelo ou vermelho de acordo com a situação do IMC do paciente
 
-*verde*: IMC adequado
+### Cores das linhas da tabela e seu significado
 
-*Amarelo*: magreza
+ - verde : IMC adequado
+ - Amarelo : magreza
+ - Vermelho : Obesidade
 
-*Vermelho*: Obesidade
+*_*OBS:_  os níveis de IMC são mais detalhados e subcategorizados, mas a intenção foi focar apenas nas três categorias.**
+ 
 
-*OBS:* claro que os níveis de IMC são mais detalhados e subcategorizados, mas a intenção foi focar apenas nas três categorias.
